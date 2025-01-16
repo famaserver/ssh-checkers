@@ -1,4 +1,5 @@
 # ssh-checkers
+#https://famaserver.com
 ssh cheker php
 usage: domian.com;username;password
 
